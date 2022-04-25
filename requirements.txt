@@ -1,0 +1,6 @@
+telegram account
+API ID
+API HASH
+SESSION
+HEROKU
+BOT TOKEN
